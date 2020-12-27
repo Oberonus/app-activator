@@ -14,7 +14,13 @@ Install needed tools
 sudo apt install xdotools wmctrl 
 ```
 
-Copy `act-app.sh` in any reachable directory (e.g. `/usr/local/bin`).
+Install the script from master branch in `/usr/local/bin` directory:
+
+```bash
+wget https://raw.githubusercontent.com/Oberonus/app-activator/master/act-app.sh && \
+chmod +x ./act-app.sh && \
+sudo mv act-app.sh /usr/local/bin/act-app
+```
 
 ## Usage example
 
