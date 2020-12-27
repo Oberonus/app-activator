@@ -3,7 +3,7 @@
 A simple bash script to run/activate/minimize any app:
 
 - If an app is not started -- launch it
-- If an app already running -- activate it
+- If an app is already running -- activate it
 - If an app is running and active -- minimize it
 
 ## Install
