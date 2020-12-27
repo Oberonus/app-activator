@@ -27,7 +27,7 @@ sudo mv act-app.sh /usr/local/bin/act-app
 Use:
 
 ```bash
-act-app.sh {application-name}
+act-app {application-name}
 ```
 
 In Ubuntu:
